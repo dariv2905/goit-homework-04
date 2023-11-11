@@ -452,8 +452,9 @@ margin-bottom: 16px;
                 letter-spacing: 0.32px;
         }
 
-.social-list-item:hover,
-.social-list-item:focus
+ .social-list-link  .social-list-item:hover,
+ .social-list-link .social-list-item:focus
 {stroke: #fd9222;
 background-color: #404bbf;
 }
+  
