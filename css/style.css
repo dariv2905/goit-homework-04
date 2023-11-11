@@ -329,12 +329,10 @@ margin-bottom: 16px;
 
 }
 
-.logotype-icon
-{margin-left: 16px;
- display: flex;
- align-items: center;
-
-    }
+.social-list
+{ display: flex;
+ column-gap: 24px;
+ align-items: center;}
 
 .information-item
 { display: flex;
