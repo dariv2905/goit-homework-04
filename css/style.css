@@ -326,7 +326,15 @@ margin-bottom: 16px;
 
 .logotype
 { padding: 24px 0;
+
 }
+
+.logotype-icon
+{margin-left: 16px;
+ display: flex;
+ align-items: center;
+
+    }
 
 .information-item
 { display: flex;
