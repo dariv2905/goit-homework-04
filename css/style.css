@@ -454,4 +454,6 @@ margin-bottom: 16px;
 
 .social-list-item:hover,
 .social-list-item:focus
-{stroke: #fd9222;}
+{stroke: #fd9222;
+background-color: #404bbf;
+}
